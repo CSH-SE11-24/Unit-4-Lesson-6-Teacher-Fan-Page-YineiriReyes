@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: pink;
+  margin: 0px;
+  padding: 0px;
+}
+#nabvar{
+  
+  text-align:center;
+  background-color:green;
+  color: white;
+  font-size:2em;
+  padding: 2vh;
+  padding-bottom:2vh;
+  img{
+    marging-left : 3vh;
+  }
